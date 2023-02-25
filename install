@@ -1,0 +1,18 @@
+clear
+pkg install git
+pkg install python
+pkg install python2
+pkg install python3
+pkg install toilet -y
+termux-setup-storage
+toilet _GeNeRal_
+clear
+apt install python -y
+apt install figlet -y
+pip install requests
+pip install colorama
+pip install termcolor
+clear
+figlet _GeNeRal_
+clear
+figlet Nanymous
