@@ -1,8 +1,8 @@
 clear
 pkg install git
-pkg install python
-pkg install python2
-pkg install python3
+pkg install python-pip
+pkg install bash
+pkg install NanyRubika
 pkg install toilet -y
 termux-setup-storage
 toilet _GeNeRal_
